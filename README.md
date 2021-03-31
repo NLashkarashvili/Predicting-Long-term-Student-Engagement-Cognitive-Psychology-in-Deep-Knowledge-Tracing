@@ -6,5 +6,5 @@
   
   
   
- <h2> The Repository <\h2> 
+ <h2> The Repository </h2> 
   This repository includes implementation of two models on the problem, an LSTM-based model, where the final dense layer leverages summation of LSTM outputs, and a transformer-based architecture with stacked encoders, composed of self-attention layers and feed-forward networks. The models were trained on EdNet dataset.
