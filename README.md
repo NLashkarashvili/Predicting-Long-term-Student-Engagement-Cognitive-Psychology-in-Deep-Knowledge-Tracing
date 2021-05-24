@@ -1,4 +1,4 @@
-<h1> Predicting Long-term Student "Spacing" </h1>
+<h1> Predicting Student "Spacing" </h1>
  
  <h2> Problem Statement </h2>
  Predict the number of sessions a student will practice/study in the next 30 days based on his/her previous interactions and performance. 
